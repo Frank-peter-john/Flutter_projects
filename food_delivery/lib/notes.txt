@@ -1,0 +1,4 @@
+Shared preferences.
+   =>They help to store data localy in a device. eg they can store cart items on a device when a buyer checks out.
+   =>They store data as strings.
+jsonDecode => It takes a string and returns a map.
